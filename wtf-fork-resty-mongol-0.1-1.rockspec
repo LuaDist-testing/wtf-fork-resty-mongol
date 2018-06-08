@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "wtf-fork-resty-mongol"
 version = "0.1-1"
--- LuaDist source
 source = {
-  tag = "0.1-1",
-  url = "git://github.com/LuaDist-testing/wtf-fork-resty-mongol.git"
+  url = "git+https://github.com/honeybot/wtf-fork-resty-mongol",
+  tag = "0.1"
 }
--- Original source
--- source = {
---   url = "git+https://github.com/honeybot/wtf-fork-resty-mongol",
---   tag = "0.1"
--- }
 description = {
   homepage = "https://github.com/honeybot/wtf-fork-resty-mongol",
   license = "MIT"
